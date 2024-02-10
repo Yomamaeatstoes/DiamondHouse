@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="DiamondHouse:jar">
+    <output-path>$USER_HOME$/Desktop/Servers/boop/plugins</output-path>
+    <root id="archive" name="DiamondHouse.jar">
+      <element id="module-output" name="DiamondHouse" />
+    </root>
+  </artifact>
+</component>

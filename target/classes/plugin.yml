@@ -1,0 +1,9 @@
+name: DiamondHouse
+version: '1.0v'
+main: ori.me.diamondhouse.DiamondHouse
+api-version: '1.20'
+depend:
+  - FastAsyncWorldEdit
+commands:
+  diamond:
+    description: diamond
